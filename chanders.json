@@ -1,0 +1,873 @@
+{
+  "data": {
+    "*profile": "urn:li:fs_profile:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "summaryTreasuryMediaCount": 0,
+    "summaryTreasuryMedias": [],
+    "*patentView": "urn:li:fs_patentView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*honorView": "urn:li:fs_honorView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*educationView": "urn:li:fs_educationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*volunteerExperienceView": "urn:li:fs_volunteerExperienceView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*volunteerCauseView": "urn:li:fs_volunteerCauseView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "$type": "com.linkedin.voyager.identity.profile.ProfileView",
+    "*testScoreView": "urn:li:fs_testScoreView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*skillView": "urn:li:fs_skillView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "$deletedFields": [ "entityLocale" ],
+    "*projectView": "urn:li:fs_projectView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "entityUrn": "urn:li:fs_profileView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*certificationView": "urn:li:fs_certificationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*languageView": "urn:li:fs_languageView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*courseView": "urn:li:fs_courseView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*publicationView": "urn:li:fs_publicationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*positionGroupView": "urn:li:fs_positionGroupView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "primaryLocale": {
+      "country": "US",
+      "language": "en",
+      "$type": "com.linkedin.common.Locale"
+    },
+    "*organizationView": "urn:li:fs_organizationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+    "*positionView": "urn:li:fs_positionView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA"
+  },
+  "included": [
+    {
+      "$deletedFields": [ "universalName" ],
+      "objectUrn": "urn:li:company:1273631",
+      "entityUrn": "urn:li:fs_miniCompany:1273631",
+      "name": "Volkswagen of America, Inc",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1554336000&amp;v=beta&amp;t=7hxXF1sK_H_nOtMcYnl0t8QFPthPv9qUuo4eJ5izESU",
+            "expiresAt": 1554336000000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1554336000&amp;v=beta&amp;t=2pZYkZD2SFRV4kYBrJcNUZNSbzJa5ZQoxPprEREDhKc",
+            "expiresAt": 1554336000000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1554336000&amp;v=beta&amp;t=MVsZ8I4DHAFTdgev9NIQP8u5kdZpj-a7cAOWmZchtCQ",
+            "expiresAt": 1554336000000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFvGfLOHGlpkw/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "1FRdCJXFQga4GMuJNx7duQ==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "$deletedFields": [ "universalName" ],
+      "objectUrn": "urn:li:company:783611",
+      "entityUrn": "urn:li:fs_miniCompany:783611",
+      "name": "MongoDB",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1554336000&amp;v=beta&amp;t=7ODcNMfChkxoXF7KFL4qqOc3XWdTOCXx6rbi6nLtWvU",
+            "expiresAt": 1554336000000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1554336000&amp;v=beta&amp;t=Gwvo5jNcziKQSorjl2TNjcr6_j3xksbAwAEShpGuC0g",
+            "expiresAt": 1554336000000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1554336000&amp;v=beta&amp;t=q0Q-coIfryEV_fDBm0lOU_xWHcbVY7Q2fFcZkzb3OhU",
+            "expiresAt": 1554336000000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGLpKNg1ECs4w/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "1Uvh6MV4QRK0WE3lMNS8pA==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "$deletedFields": [],
+      "objectUrn": "urn:li:school:32486",
+      "entityUrn": "urn:li:fs_miniSchool:32486",
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1554336000&amp;v=beta&amp;t=62_CXLzcUjZ2ahCOdgGMgrYj8ArUb9qLHe6K1DWQ4-A",
+            "expiresAt": 1554336000000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1554336000&amp;v=beta&amp;t=YJMmp2aOM6AaZ4LNsu2fBbvaPiQfQ46i2ug3_OJOeO4",
+            "expiresAt": 1554336000000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1554336000&amp;v=beta&amp;t=w_3G5ef5YMEJdzA1jln5cGwQ7Fc5RTjoRaIY_vNxhyk",
+            "expiresAt": 1554336000000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFEPccF307-qg/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "schoolName": "University of the Cumberlands",
+      "trackingId": "5v2AadDgQ42JcX+OAYdtuA==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniSchool"
+    },
+    {
+      "$deletedFields": [ "logo" ],
+      "objectUrn": "urn:li:school:13524",
+      "entityUrn": "urn:li:fs_miniSchool:13524",
+      "active": true,
+      "schoolName": "Kakatiya University",
+      "trackingId": "pc0+sebgRzqxeWnfoe+RPQ==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniSchool"
+    },
+    {
+      "$deletedFields": [],
+      "objectUrn": "urn:li:school:17886",
+      "entityUrn": "urn:li:fs_miniSchool:17886",
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1554336000&amp;v=beta&amp;t=GB6C6uJbJfqwAC0PKmAe_iQo3vKXuTcRUsarwo4Fzws",
+            "expiresAt": 1554336000000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1554336000&amp;v=beta&amp;t=YPaVbdOJ0kK-xXTd4O2gvclNWbJxzmESB2w7uaU5YQQ",
+            "expiresAt": 1554336000000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1554336000&amp;v=beta&amp;t=Skn9GUWeUT2U37m7U2EFqNrzMHW2cOHhsQ42UJRuEmg",
+            "expiresAt": 1554336000000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C560BAQF-KXMe_yg8RA/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "schoolName": "Northwestern Polytechnic University",
+      "trackingId": "HNkp3Se6TRW+7Bal7HkscQ==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniSchool"
+    },
+    {
+      "$deletedFields": [ "company", "companyUrn" ],
+      "entityUrn": "urn:li:fs_certification:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,651148808)",
+      "authority": "C# with .NET Programming",
+      "name": "Lynda.com Inc",
+      "timePeriod": {
+        "startDate": {
+          "month": 2,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "licenseNumber": " Certificate No: 230B431F74C142598A382FC9C628BBFE",
+      "displaySource": "lynda.com",
+      "url": "https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx",
+      "$type": "com.linkedin.voyager.identity.profile.Certification"
+    },
+    {
+      "$deletedFields": [ "licenseNumber" ],
+      "entityUrn": "urn:li:fs_certification:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1495938675)",
+      "authority": "MongoDB",
+      "name": "M101N: MongoDB for .NET Developers",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "*company": "urn:li:fs_miniCompany:783611",
+      "displaySource": "mongodb.com",
+      "companyUrn": "urn:li:fs_miniCompany:783611",
+      "url": "http://university.mongodb.com/course_completion/13896adc7e5e44c2845c20746bac5590",
+      "$type": "com.linkedin.voyager.identity.profile.Certification"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_certificationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 2,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_certification:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,651148808)", "urn:li:fs_certification:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1495938675)" ],
+      "$type": "com.linkedin.voyager.identity.profile.CertificationView"
+    },
+    {
+      "number": "",
+      "$deletedFields": [],
+      "occupation": "urn:li:fs_education:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,208718865)",
+      "entityUrn": "urn:li:fs_course:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1007314302)",
+      "name": "oracle",
+      "$type": "com.linkedin.voyager.identity.profile.Course"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_courseView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_course:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1007314302)" ],
+      "$type": "com.linkedin.voyager.identity.profile.CourseView"
+    },
+    {
+      "$deletedFields": [ "courses", "projects", "description", "recommendations", "honors", "entityLocale", "activities", "testScores" ],
+      "entityUrn": "urn:li:fs_education:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,533564353)",
+      "grade": "Grade A",
+      "timePeriod": {
+        "endDate": {
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100199",
+      "*school": "urn:li:fs_miniSchool:32486",
+      "degreeName": "Master's degree",
+      "schoolName": "University of the Cumberlands",
+      "fieldOfStudy": "Computer and Information Systems Security/Information Assurance",
+      "degreeUrn": "urn:li:fs_degree:500",
+      "schoolUrn": "urn:li:fs_miniSchool:32486",
+      "$type": "com.linkedin.voyager.identity.profile.Education"
+    },
+    {
+      "courses": [ "urn:li:fs_course:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1007314302)" ],
+      "$deletedFields": [ "projects", "recommendations", "honors", "entityLocale", "activities", "fieldOfStudyUrn", "testScores", "degreeUrn" ],
+      "entityUrn": "urn:li:fs_education:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,208718865)",
+      "grade": "Grade A",
+      "timePeriod": {
+        "endDate": {
+          "year": 2014,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "year": 2010,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": " Graduated in the field of Electronics and Communication Engineering in 2014 from kakatiya University.",
+      "*school": "urn:li:fs_miniSchool:13524",
+      "degreeName": "Bachelor of Technology (B.Tech.)",
+      "schoolName": "Kakatiya University",
+      "fieldOfStudy": "Electronics and Communications Engineering",
+      "schoolUrn": "urn:li:fs_miniSchool:13524",
+      "$type": "com.linkedin.voyager.identity.profile.Education"
+    },
+    {
+      "$deletedFields": [ "courses", "projects", "description", "recommendations", "honors", "entityLocale", "activities", "fieldOfStudyUrn", "testScores", "degreeUrn" ],
+      "entityUrn": "urn:li:fs_education:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,389156990)",
+      "grade": "Grade A",
+      "timePeriod": {
+        "endDate": {
+          "year": 2016,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "year": 2015,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "*school": "urn:li:fs_miniSchool:17886",
+      "degreeName": "Master's degree",
+      "schoolName": "Northwestern Polytechnic University",
+      "fieldOfStudy": "Electrical and Electronics Engineering",
+      "schoolUrn": "urn:li:fs_miniSchool:17886",
+      "$type": "com.linkedin.voyager.identity.profile.Education"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_educationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 3,
+        "start": 0,
+        "count": 3,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_education:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,533564353)", "urn:li:fs_education:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,389156990)", "urn:li:fs_education:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,208718865)" ],
+      "$type": "com.linkedin.voyager.identity.profile.EducationView"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_honorView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.HonorView"
+    },
+    {
+      "$deletedFields": [ "proficiency" ],
+      "entityUrn": "urn:li:fs_language:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,2)",
+      "name": "Telugu",
+      "$type": "com.linkedin.voyager.identity.profile.Language"
+    },
+    {
+      "$deletedFields": [ "proficiency" ],
+      "entityUrn": "urn:li:fs_language:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1)",
+      "name": "English",
+      "$type": "com.linkedin.voyager.identity.profile.Language"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_languageView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 2,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_language:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1)", "urn:li:fs_language:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,2)" ],
+      "$type": "com.linkedin.voyager.identity.profile.LanguageView"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_organizationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.OrganizationView"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_patentView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.PatentView"
+    },
+    {
+      "$deletedFields": [ "courses", "projects", "entityLocale", "organizations", "region", "recommendations", "honors", "promotion" ],
+      "locationName": "Detroit,MI",
+      "entityUrn": "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1389572676)",
+      "companyName": "Volkswagen of America, Inc",
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 9,
+          "year": 2015,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Role: .Net Developer\nVolkswagen, Inc. is a top industrial supply company that supplies facilities maintenance and other related products in all over the world. This project is a web-based (Intranet) application used to input trading revenue details from various trading business units and generate reports. This receives revenue estimates from various Business Units. This application calculates the variant from the forecasted data and actual data. The data is presented to executive level businessmen through integrating it into intranet site. The consolidated revenue data from the system also feeds information to other websites\n\nResponsibilities: \n•\tWorked in Requirement Collections, Analysis, Development and Customization, Testing of the Application and implementation of the Web Guard in them. \n•\tInvolved in developing WCF Web Service using SOAP/HTTP to communicate with legacy systems. \n•\tWorked intensively on production support and escalations during and after releases. \n•\tResponsible for designing the ASP.NET application using .NET Framework ADO.Net Entity framework architecture. \n•\tDesigned and developed UI components, implemented event handling using C#, HTML, CSS, JavaScript, JQuery, AJAX, and also Worked on CSS to get consistent look and feel of the web site. \n•\tImplemented Authenticated and Authorization using proprietary WebGuard in Web.Config file. Configured for users Authorization and role-based security. \n•\tImplemented Generics for creating object collections and extensively implemented for maintaining type safety so that run time errors are reduced. \n•\tGood experience in debugging ASP.NET and IIS related issues. \n•\tResponsible for maintaining a session of messages between a client and a service using WCF facilities. \nEnvironment: Visual Studio.NET 2008/2010, .Net Framework 4/ 4.5, ASP.NET, C#, HTML, jQuery, CSS, JavaScript, SQL 2005/2008, SOAP, SQL Server 2014, Entity Framework, LINQ, WPF, JSON, VSS, Agile Methodologies, Team Foundation Server (TFS).\n",
+      "company": {
+        "employeeCountRange": {
+          "start": 1001,
+          "end": 5000,
+          "$type": "com.linkedin.voyager.identity.profile.EmployeeCountRange"
+        },
+        "industries": [ "Automotive" ],
+        "*miniCompany": "urn:li:fs_miniCompany:1273631",
+        "$type": "com.linkedin.voyager.identity.profile.PositionCompany"
+      },
+      "title": ".NET Developer",
+      "companyUrn": "urn:li:fs_miniCompany:1273631",
+      "$type": "com.linkedin.voyager.identity.profile.Position"
+    },
+    {
+      "$deletedFields": [ "courses", "projects", "entityLocale", "organizations", "company", "region", "companyUrn", "recommendations", "honors", "promotion" ],
+      "locationName": "MA, United States",
+      "entityUrn": "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1311540941)",
+      "companyName": "casenet inc",
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 2,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Responsibilities: \n•  Extensively worked on web technologies and with ASP.NET MVC, C#, HTML, CSS, Web Services. \n•  Designed and implemented application using ASP.NET MVC 5 and C#.\n•  Created professional UI with Razor View Engine, HTML5, CSS3, and Bootstrap.\n•  Worked with JavaScript and AJAX libraries and frameworks including jQuery.\n•  Designed reusable Layout Page to facilitate and speed up development.\n•  Used Entity Framework to create Models.\n•  Used Action Filters for user authentication and authorizations.\n•  implemented business logic using MVC authorization filters, action filters and exception filters.\n•  Implemented WebGrid MVC with jQuery/JSON to provide more flexible, editable and sortable grid view to increase user interaction.\n•  Implemented the N-tier architecture, e.g. Presentation Interface (UI), Business Logic Layer (BLL), and Data Access Layer (DAL).\n•  Implemented client-side validations and server-side validation.\n•  Experience of RDBMS and Developed Constraints, Join, Views and Triggers in SQL Server. \n•  Deploying the code to multiple environments and test the application reliability &amp; tolerance. \n•  Used Version Controlling tools such as Subversion (SVN) and Team Foundation Server (TFS) 2015.\n\n",
+      "title": ".Net Developer                                                                          ",
+      "$type": "com.linkedin.voyager.identity.profile.Position"
+    },
+    {
+      "$deletedFields": [ "courses", "projects", "entityLocale", "organizations", "company", "companyUrn", "recommendations", "honors", "promotion" ],
+      "locationName": "Hyderabad Area, India",
+      "entityUrn": "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,904248541)",
+      "companyName": "Serco Pvt. Limited",
+      "timePeriod": {
+        "endDate": {
+          "month": 5,
+          "year": 2015,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2013,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "•\tInvolved in total development life cycle (SDLC) of the application.\n•\tFollowed Agile/Scrum methodology with 2 weeks of sprint.\n•\tWorked on all layers like presentation, business and data layers with C# as programming     language.\n•\tUsed client side technologies like HTML, CSS and JavaScript for designing pages and validations as per business requirements.\n•\tImplemented server caching techniques, state management, forms authentication, multiple master pages.\n•\tDeveloped UI for various Modules like Payroll, Marketing etc., using .NET rich web server controls like Data grid, data list etc., and used extensively ADO.NET.\n•\tInvolved in designing of WCF based Service, Data, Fault, Message Contracts as well as providing security for WCF service endpoints.\n•\tThe Entity Framework was used for the object to database mappings.\n•\tUsed ADO.Net classes like SqlConnection, SqlDataAdapter, SqlDataReader and SqlCommand classes for data access. \n•\tImplemented data access using ADO.NET  to store and retrieve new user information for further use\n•\tResponsible for unit testing and documentation of developed code. \n•\tUsed Web services to communicate with the business layer objects.\n•\tAccessing SQL Server 2008 from the application using WCF.\n•\tDesign user interface using, HTML and CSS.\n•\tDeveloped validation rules both client side and server side using JavaScript and validation controls.\n•\tUsed ASP.NET, AJAX to improve the performance of the application\n\n\n\nEnvironment:  C#, ASP.NET, .NET Framework 4.0, HTML, CSS, JavaScript,JQuery, SQL Server,AJAX.\n\n\n",
+      "title": "junior .Net Developer",
+      "region": "urn:li:fs_region:(in,6508)",
+      "$type": "com.linkedin.voyager.identity.profile.Position"
+    },
+    {
+      "$deletedFields": [ "courses", "projects", "entityLocale", "organizations", "company", "companyUrn", "recommendations", "honors", "promotion" ],
+      "locationName": "Chicago  United States.",
+      "entityUrn": "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1311544642)",
+      "companyName": "MEDLINE INDUSTRIES",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "ROLES &amp; RESPONSIBILITIES\n\n•\tInvolved in the complete Software Development Life Cycle including Analysis, Design, Implementation, Testing and Maintenance.\n•\tInvolved in upgrading Angular2 to Angular4.\n•\tBuilt front-end SPA using HTML5, Angular2 and Bootstrap and backend server using ASP.NET Web API.\n•\tWorked on Angular Reactive forms to implement complex forms and performed the validations using Form Builder both in Angular2 and Angular 4.\n•\tInvolved in developing applications using Angular 2 - Bootstrap like Grids, Toolbars, Panels, Combo-Box and Button etc. Used filters while coding in Angular 2/4.\n•\tUsed Angular Dependency Injections to inject objects into a class, instead of relying on the class to create the objects.\n•\tImplemented Custom Angular Validators and added them to the NG_VALIDATOR list by configuring multi to true.\n•\tCreated Typescript reusable module, components and services.\n•\tResponsible for the design/development of the application's client/server interface, database structure and design using the Visual Studio.NET development environment.\n•\tInvolved in designing and developing different modules using C#.NET, ASP.NET.\n•\tInvolved with the client team to design and develop the application according to client requirement using ASP.NET 4.5, Web API, and SQL Server 2014 with the business logic implemented using C#.\n•\tCreated Angular service and integration with RESTful APIs.\n•\tUsed Angular $http to send GET/POST request to fetch data from server.\n•\tUsed open source library like Angular material to create customized components.\n•\tWorked with Karma and Jasmine, supporting QA team to debug and write tests.\n•\tWorked in Agile methodology and attended daily Scrum meetings, used JIRA to access the current progress.\n",
+      "title": "Full Stack Angular/ .NET Developer                                    ",
+      "region": "urn:li:fs_region:(us,0)",
+      "$type": "com.linkedin.voyager.identity.profile.Position"
+    },
+    {
+      "$deletedFields": [ "miniCompany" ],
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,0)",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "MEDLINE INDUSTRIES",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 5,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*positions": [ "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1311544642)" ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,2)",
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 9,
+          "year": 2015,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "Volkswagen of America, Inc",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 2,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*miniCompany": "urn:li:fs_miniCompany:1273631",
+      "*positions": [ "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1389572676)" ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "$deletedFields": [ "miniCompany" ],
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1)",
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 2,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "casenet inc",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 2,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*positions": [ "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1311540941)" ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "$deletedFields": [ "miniCompany" ],
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,3)",
+      "timePeriod": {
+        "endDate": {
+          "month": 5,
+          "year": 2015,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2013,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "Serco Pvt. Limited",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 2,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*positions": [ "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,904248541)" ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_positionGroupView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 4,
+        "start": 0,
+        "count": 5,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,0)", "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1)", "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,2)", "urn:li:fs_positionGroup:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,3)" ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroupView"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_positionView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 4,
+        "start": 0,
+        "count": 5,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1311544642)", "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1311540941)", "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1389572676)", "urn:li:fs_position:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,904248541)" ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionView"
+    },
+    {
+      "summary": "Having 6+ years of experience in development and Implementation of various stand-alone, Intranet, Client-Server and Web Based applications based on various industries standard architectures like N-Tier, client/Server, and Service Oriented Architecture (SOA) using Microsoft tools and technologies.\n\n•     Experience in Microsoft Technologies in Analyzing, Designing, Developing, and Testing and Deploying web application implementing Object Oriented Programming in Software Development Life Cycle (SDLC).\n•\tStrong experience in the Design and Development of Web based Applications, Windows Applications \n•\tStrong knowledge of front-end Single Page Application (SPA) development using open source framework Angular.\n•\tWorked extensively in front-end web development and design using HTML5, CSS3, CSS Preprocessors Sass and Bootstrap.\n•\tExperienced in web application design and development using multiple versions of .NET Framework including ASP.NET Core, ASP.NET MVC with C#.\n•\tSolid understanding of TypeScript, Angular.\n•\tExpertise in developing web applications using ASP.NET web forms, Web Services, Windows Communication Foundation (WCF) and ASP.NET Web API.\n•\tExtensive knowledge in JavaScript, jQuery, client-side framework using Angular.\n•\tapplications using Microsoft Technologies including ASP.NET, C#, .NET Framework 4.5/4.0, C#.NET, JavaScript, ADO.NET, IIS 6.0/7.0, CSS, HTML, XML, Oracle SQL 2012/2008.\n•\tExpertise in writing complex Database queries, Stored Procedures using MS SQL 2014 and Oracle 11g/10g.\n•\tExperience in testing, fixing the bugs and troubleshooting technical issues.\n•\tExperience in design and development of ASP.NET web forms using code behind and various controls, HTML and CSS.\n•\tWorked in Agile methodology and attended daily Scrum meetings.\n•\tInvolved in Unit Testing and documenting unit test cases.\n•\tActively participated in client interactions and team meetings.\n\n",
+      "industryName": "Computer Software",
+      "lastName": "s",
+      "supportedLocales": [
+        {
+          "country": "US",
+          "language": "en",
+          "$type": "com.linkedin.common.Locale"
+        }
+      ],
+      "locationName": "San Francisco Bay Area",
+      "student": false,
+      "*miniProfile": "urn:li:fs_miniProfile:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "versionTag": "3375039153",
+      "elt": false,
+      "industryUrn": "urn:li:fs_industry:4",
+      "$type": "com.linkedin.voyager.identity.profile.Profile",
+      "defaultLocale": {
+        "country": "US",
+        "language": "en",
+        "$type": "com.linkedin.common.Locale"
+      },
+      "firstName": "chander",
+      "$deletedFields": [ "backgroundImage", "maidenName", "phoneticLastName", "entityLocale", "state", "phoneticFirstName", "address", "pictureInfo", "profilePictureOriginalImage", "birthDate", "profilePicture", "backgroundPicture", "backgroundPictureOriginalImage" ],
+      "showEducationOnProfileTopCard": true,
+      "entityUrn": "urn:li:fs_profile:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "location": {
+        "basicLocation": {
+          "countryCode": "us",
+          "postalCode": "94538",
+          "$type": "com.linkedin.voyager.common.NormBasicLocation"
+        },
+        "preferredGeoPlace": "urn:li:fs_region:(us,84)",
+        "$type": "com.linkedin.voyager.identity.profile.ProfileLocation"
+      },
+      "headline": "Fullstack .Net Developer "
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_projectView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.ProjectView"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_publicationView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.PublicationView"
+    },
+    {
+      "$deletedFields": [ "standardizedSkillUrn", "standardizedSkill" ],
+      "entityUrn": "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,3)",
+      "name": "C#",
+      "$type": "com.linkedin.voyager.identity.profile.Skill"
+    },
+    {
+      "$deletedFields": [ "standardizedSkillUrn", "standardizedSkill" ],
+      "entityUrn": "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,40)",
+      "name": "Agile Methodologies",
+      "$type": "com.linkedin.voyager.identity.profile.Skill"
+    },
+    {
+      "$deletedFields": [ "standardizedSkillUrn", "standardizedSkill" ],
+      "entityUrn": "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1)",
+      "name": "C",
+      "$type": "com.linkedin.voyager.identity.profile.Skill"
+    },
+    {
+      "$deletedFields": [ "standardizedSkillUrn", "standardizedSkill" ],
+      "entityUrn": "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,2)",
+      "name": "C++",
+      "$type": "com.linkedin.voyager.identity.profile.Skill"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_skillView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 30,
+        "start": 0,
+        "count": 4,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1)", "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,2)", "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,3)", "urn:li:fs_skill:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,40)" ],
+      "$type": "com.linkedin.voyager.identity.profile.SkillView"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_testScoreView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.TestScoreView"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_volunteerCauseView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 0,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerCauseView"
+    },
+    {
+      "$deletedFields": [ "company", "companyUrn" ],
+      "role": "Conducted live web-casting",
+      "entityUrn": "urn:li:fs_volunteerExperience:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1740081696)",
+      "companyName": "Election Commission of India(ECI).",
+      "timePeriod": {
+        "endDate": {
+          "month": 4,
+          "year": 2014,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 4,
+          "year": 2014,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "cause": "CIVIL_RIGHTS",
+      "description": "Conducted live web-casting during bye-elections at Joint-Collector office, Warangal  under the guidance of Election Commission of India(ECI).(’14)",
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerExperience"
+    },
+    {
+      "$deletedFields": [],
+      "entityUrn": "urn:li:fs_volunteerExperienceView:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "profileId": "ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 3,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [ "urn:li:fs_volunteerExperience:(ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA,1740081696)" ],
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerExperienceView"
+    },
+    {
+      "firstName": "chander",
+      "lastName": "s",
+      "$deletedFields": [],
+      "occupation": "Fullstack .Net Developer",
+      "objectUrn": "urn:li:member:325536410",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAABNnSpoBw16uphr0B1cJzitoszpfRo-a7xA",
+      "backgroundImage": {
+        "artifacts": [
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "200_800/0?e=1551916800&amp;v=beta&amp;t=QyUiQBmaojxDTez1PaS0OTWm2uJjaMKqye4jHo9syJ8",
+            "expiresAt": 1551916800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 1400,
+            "fileIdentifyingUrlPathSegment": "350_1400/0?e=1551916800&amp;v=beta&amp;t=VurCL2i3O6nN7V8psF3Xt-BoiOm01OjQodX4LkZyEQ0",
+            "expiresAt": 1551916800000,
+            "height": 350,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEEVn2E5AbaYQ/profile-displaybackgroundimage-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "publicIdentifier": "chandhu-reddy",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1551916800&amp;v=beta&amp;t=UtgPg3h5bU92orX3u-faJuF1EtZC1tipYndc6wlwqTs",
+            "expiresAt": 1551916800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1551916800&amp;v=beta&amp;t=1tZQxqhFYjMAljuL4wC7N1KHJlkkbT61td5GwjKUxIQ",
+            "expiresAt": 1551916800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1551916800&amp;v=beta&amp;t=vXMRxDMKeKegImhjTUz5WCBv6wsxI1t5g3LEho7Ulr0",
+            "expiresAt": 1551916800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1551916800&amp;v=beta&amp;t=TuAex5aWV9DEamyX_y3yCjUw81gpnxAQM-2PRChVzMM",
+            "expiresAt": 1551916800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGO3rNe1CeHBQ/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "Np9VtdyfQ1Wew4bTgTGUpg==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    }
+  ]
+}
